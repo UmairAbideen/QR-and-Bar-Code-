@@ -114,4 +114,3 @@ class PdfContorller extends Controller
 ## 5️⃣ Access the PDF
 
 http://localhost:8000/generate-pdf
-You’ll see the PDF containing both QR and barcode displayed inline.
