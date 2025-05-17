@@ -1,4 +1,4 @@
-# 📦 Laravel 10 QR Code & Barcode Generator with PDF
+# 📦 QR Code & Barcode Generator with PDF in Laravel
 
 This project demonstrates how to **generate QR codes and barcodes in Laravel**, embed them into a **PDF**, and either display or download the PDF file. 
 
